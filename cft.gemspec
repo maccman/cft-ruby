@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "cft"
-  s.version     = "0.0.2"
+  s.version     = "0.0.3"
 
   s.authors     = ["Alex MacCaw"]
   s.email       = "alex@alexmaccaw.com"

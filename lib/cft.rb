@@ -30,6 +30,8 @@ module CFT
     end
   end
 
+  autoload :Template, 'cft/template'
+
   class << self
     def version
       Source.version

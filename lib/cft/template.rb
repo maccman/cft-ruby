@@ -8,7 +8,7 @@ module CFT
   #   https://github.com/sstephenson/ruby-eco
   #   https://github.com/sstephenson/eco
   #
-  class CFTTemplate < Tilt::Template
+  class Template < Tilt::Template
     # Check to see if CFT is loaded
     def self.engine_initialized?
       defined? ::CFT
