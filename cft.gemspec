@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "cft"
-  s.version     = "0.0.3"
+  s.version     = "0.0.4"
 
   s.authors     = ["Alex MacCaw"]
   s.email       = "alex@alexmaccaw.com"
@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
 
   s.files = [
     "lib/cft.rb",
+    "lib/cft/template.rb",
     "LICENSE",
     "README.md"
   ]
